@@ -3,5 +3,5 @@
 
   ## **Projects**
   
-  ### Interactive Accordion\
+  ### Interactive Accordion
       -- Building...
