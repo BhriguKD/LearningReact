@@ -24,7 +24,7 @@ export const Accordion = () => {
   };
 
   return (
-    <div className="w-full max-w-2xl mx-auto bg-slate-900 rounded-xl border border-slate-800">
+    <div className="w-full max-w-2xl mx-auto bg-stone-100 border border-stone-300">
       {FAQ_DATA.map((item, index) => (
         <AccordionItem
           key={index}
