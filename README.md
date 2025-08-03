@@ -7,3 +7,4 @@
   - React + Vite
   - Framer Motion
   - Lucide React
+  - Tailwind CSS
