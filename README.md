@@ -4,4 +4,6 @@
   ## **Projects**
   
   ### Interactive Accordion
-      -- Building...
+  - React + Vite
+  - Framer Motion
+  - Lucide React
