@@ -8,3 +8,6 @@
   - Framer Motion
   - Lucide React
   - Tailwind CSS
+
+  ### Random Receipe Generator
+    building...
