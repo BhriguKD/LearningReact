@@ -10,4 +10,6 @@
   - Tailwind CSS
 
   ### Random Receipe Generator
-    building...
+  - React + Vite
+  - Motion and Tailwind
+  - Axios for fetching
