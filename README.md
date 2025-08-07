@@ -13,3 +13,6 @@
   - React + Vite
   - Motion and Tailwind
   - Axios for fetching
+
+  ### ColorPaletteGen
+    Building...
