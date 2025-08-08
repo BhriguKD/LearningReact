@@ -15,4 +15,7 @@
   - Axios for fetching
 
   ### ColorPaletteGen
-    Building...
+  - React + Vite
+  - Motion and Tailwind
+  - Axios, Lucide React
+  - react hot toast
