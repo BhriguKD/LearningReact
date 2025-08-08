@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { Lock, Unlock } from "lucide-react";
 
-export const ColorSwatch = ({ color, onLockToggle, onCopy }) => {
+export const ColorSwatches = ({ color, onLockToggle, onCopy }) => {
   return (
     <motion.div
       style={{ backgroundColor: color.hex }}
