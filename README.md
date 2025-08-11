@@ -21,4 +21,4 @@
   - react hot toast
 
   ### MAD Library
-    building...
+    Random Story Generator
