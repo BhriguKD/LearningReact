@@ -22,3 +22,5 @@
 
   ### MAD Library
     Random Story Generator
+  - Axios, Lucide React
+  - State Management
